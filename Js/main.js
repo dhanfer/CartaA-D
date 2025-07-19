@@ -115,23 +115,16 @@ let mensaje = `
 Mi vida,
 Hay tantas cosas lindas que quiero decirte, porque sin duda tú mereces todo lo bonito del mundo. 🥹
 Últimamente he pensado mucho en qué hice para tener a una persona tan especial como tú.
-
 Cada vez que me llega un mensaje tuyo, me pongo muy feliz, incluso cuando hablamos poco durante el día. Tus mensajes tienen ese poder de alegrarme y darme paz, así esté lleno de trabajo o de cosas en la cabeza.
-
 Eres y siempre serás mi persona favorita.
 Me encanta todo de ti. Eres una persona maravillosa, increíble… y nunca dejes que nadie te haga pensar lo contrario. ❤️🥰🥹
-
 Gracias por darme la oportunidad de conocerte. No te vas a arrepentir.
 Lo que siento por ti no se describe con palabras; un simple “te quiero” se queda corto.
 De verdad, gracias por todo lo que eres.
-
 Te prometo hacerte la persona más feliz del universo, y espero lo mismo de ti.
 Gracias por aparecer en mi vida. Nunca he querido a alguien así como te quiero a ti.
-
 Te has convertido en una de las personas más importantes de mi mundo.
-Mi corazón es completamente tuyo.
-
-Y por último, mi amor… estoy orgulloso de ti y de todo lo que logras.
+Mi corazón es completamente tuyo.Y por último, mi amor… estoy orgulloso de ti y de todo lo que logras.
 Te quiero demasiado. ❤️🥹
 `;
 
