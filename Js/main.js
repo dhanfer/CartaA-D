@@ -120,7 +120,7 @@ Me gusta todo de ti, eres una persona maravillosa, increíble, y no quiero que d
 Gracias por hacerme la persona más feliz del mundo.
 No sé cómo describir lo que siento por ti; un simple “te quiero” no es suficiente, en serio, mi amor, te agradezco por todo.
 Te prometo hacerte la persona más feliz del universo, como tú lo haces conmigo.
-Gracias por aparecer en mi vida, nunca había querido a alguien así como te quiero a ti.
+Gracias por aparecer en mi vida, nunca eh querido a alguien así como te quiero a ti.
 Eres la persona más importante en este mundo, mi corazón es completamente tuyo.
 Por último, mi amor, estoy orgulloso de ti y de todo lo que logras.
 
