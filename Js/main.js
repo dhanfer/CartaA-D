@@ -111,21 +111,28 @@ function getQueryParams() {
 }
 
 let para = "Ale"; // valor por defecto
-let mensaje = `Mi vida, hay tantas cosas bonitas que quiero decirte, porque sin duda tú mereces todo lo bonito del mundo 🥹
-Estuve pensando qué hice para tener una persona tan linda como tú.
-Cada vez que me llega un mensaje tuyo me pone muy feliz, aunque hablemos poco durante el día.
-Tus mensajes me alegran tanto que por poco lloro de felicidad.
-Eres y serás siempre mi persona favorita.
-Me gusta todo de ti, eres una persona maravillosa, increíble, y no quiero que dejes que nadie te diga lo contrario. ❤️🥰🥹
-Gracias por hacerme la persona más feliz del mundo.
-No sé cómo describir lo que siento por ti; un simple “te quiero” no es suficiente, en serio, mi amor, te agradezco por todo.
-Te prometo hacerte la persona más feliz del universo, como tú lo haces conmigo.
-Gracias por aparecer en mi vida, nunca eh querido a alguien así como te quiero a ti.
-Eres la persona más importante en este mundo, mi corazón es completamente tuyo.
-Por último, mi amor, estoy orgulloso de ti y de todo lo que logras.
+let mensaje = `
+Mi vida,
+Hay tantas cosas lindas que quiero decirte, porque sin duda tú mereces todo lo bonito del mundo. 🥹
+Últimamente he pensado mucho en qué hice para tener a una persona tan especial como tú.
 
+Cada vez que me llega un mensaje tuyo, me pongo muy feliz, incluso cuando hablamos poco durante el día. Tus mensajes tienen ese poder de alegrarme y darme paz, así esté lleno de trabajo o de cosas en la cabeza.
+
+Eres y siempre serás mi persona favorita.
+Me encanta todo de ti. Eres una persona maravillosa, increíble… y nunca dejes que nadie te haga pensar lo contrario. ❤️🥰🥹
+
+Gracias por darme la oportunidad de conocerte. No te vas a arrepentir.
+Lo que siento por ti no se describe con palabras; un simple “te quiero” se queda corto.
+De verdad, gracias por todo lo que eres.
+
+Te prometo hacerte la persona más feliz del universo, y espero lo mismo de ti.
+Gracias por aparecer en mi vida. Nunca he querido a alguien así como te quiero a ti.
+
+Te has convertido en una de las personas más importantes de mi mundo.
+Mi corazón es completamente tuyo.
+
+Y por último, mi amor… estoy orgulloso de ti y de todo lo que logras.
 Te quiero demasiado. ❤️🥹
-
 `;
 
  
